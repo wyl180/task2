@@ -1,6 +1,10 @@
 package com.jnshu.pojo;
 
 
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
+
 /**
  * @author 韦延伦
  * @date 2020/6/12 13:38
